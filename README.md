@@ -68,7 +68,7 @@ With increasing concern about climate change, forecasting global temperatures pl
 
 ## 📸 Output Screenshot
 
-![Output Plot](images/Screenshot2025-07-14190634.png)  
+![Output Plot](images/plot.png)  
 *Replace with your actual plot screenshot*
 
 ---
