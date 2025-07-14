@@ -69,14 +69,14 @@ With increasing concern about climate change, forecasting global temperatures pl
 ## 📸 Output Screenshot
 
 ![Output Plot](images/plot.png) 
-![output plot2](images/plot.png)
+![output plot2](images/plot2.png)
 
 ---
 
 ## ✅ Results
 
-- **Baseline Accuracy:** ~50%
-- **Random Forest Accuracy:** ~86.5%
+- **Baseline Accuracy:** ~96%
+- **Random Forest Accuracy:** ~99%
 
 ---
 
